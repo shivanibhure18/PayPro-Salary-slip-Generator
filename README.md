@@ -1,5 +1,5 @@
 #  Employee Salary Slip Generator..
-   "Just completed my PayPro project! 🚀 Built a console based application in java that calculates employee payslip based on user input. 
+   "Just completed my PayPro project! 🚀 Built a console based application in java that calculates Employee salary slip Generator based on user input. 
 
  # 💻 Key Features:
     1. Employee Input: Takes employee details 📝
